@@ -22,7 +22,7 @@ php composer.phar require aszone/fakeheaders
 > Use command for init process, result will print in monitor and save in txt on folder results. 
 
 ```bash
-$proxies = = new Proxies();
+$proxies = new Proxies();
 $proxies->getTor();
 
 ```
