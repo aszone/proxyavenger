@@ -24,6 +24,8 @@ php composer.phar require aszone/fakeheaders
 ```bash
 $proxies = new Proxies();
 $proxies->getTor();
+$proxies->getProxyOfSites();
+$proxies->getVirginSiteProxies();
 
 ```
     
