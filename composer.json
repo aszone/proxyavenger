@@ -1,8 +1,8 @@
 {
-  "name": "aszone/proxiesavenger",
+  "name": "aszone/proxyavenger",
   "type": "library",
-  "description": "AsZone Component - Proxies Avenger",
-  "keywords": ["proxies","proxy","tor","virgin proxy","avenger","aszone"],
+  "description": "AsZone Component - Proxy Avenger",
+  "keywords": ["proxies","proxy","tor","virgin proxy","avenger","aszone","hacker","hacking","attack", "attacking"],
   "homepage": "http://www.lenonleite.com.br",
   "license": "MIT",
   "version": "0.1",
