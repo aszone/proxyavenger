@@ -26,8 +26,8 @@
   },
   "autoload": {
     "psr-4": {
-      "Aszone\\ProvxyAvenger\\": "src/"
+      "Aszone\\": "src/"
     }
   },
-  "minimum-stability": "beta"
+  "minimum-stability": "dev"
 }

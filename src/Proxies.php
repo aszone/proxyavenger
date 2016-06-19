@@ -6,7 +6,7 @@
  * Time: 16:37.
  */
 
-namespace Aszone\Component\SearchHacking\Lib\ProxiesAvenger;
+namespace Aszone;
 
 class Proxies
 {
