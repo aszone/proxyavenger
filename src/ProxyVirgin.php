@@ -15,12 +15,12 @@ class ProxyVirgin
 {
     public function getVirginSiteProxies()
     {
-        return parse_ini_file(__DIR__.'/resource/PersonalProxy.ini');
+        return parse_ini_file(__DIR__ . '/resource/PersonalProxy.ini');
     }
 
     public function checkVirginProxiesExist()
     {
-        $values = parse_ini_file(__DIR__.'/resource/PersonalProxy.ini');
+        $values = parse_ini_file(__DIR__ . '/resource/PersonalProxy.ini');
         if (empty($values)) {
             return false;
         }

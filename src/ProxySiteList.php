@@ -14,7 +14,7 @@ class ProxySiteList
 
     public function __construct()
     {
-        $this->pathProxy = __DIR__.'/resource/proxys.json';
+        $this->pathProxy = __DIR__ . '/resource/proxys.json';
         $this->countProxylist = 1;
     }
 
@@ -44,7 +44,7 @@ class ProxySiteList
     {
         $header = new FakeHeaders();
 
-        $listProxysIni = parse_ini_file(__DIR__.'/resource/SitesProxysFree.ini');
+        $listProxysIni = parse_ini_file(__DIR__ . '/resource/SitesProxysFree.ini');
         echo 'Loading proxys by site '.$listProxysIni[3]."\n";
         $client = new Client();
         $body = $client->get($listProxysIni[3], array(), array(

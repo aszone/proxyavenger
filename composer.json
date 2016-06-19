@@ -24,5 +24,10 @@
     "symfony/dom-crawler":"~2.8",
     "aszone/fakeheadres": "dev-master"
   },
+  "autoload": {
+    "psr-4": {
+      "Aszone\\ProvxyAvenger\\": "src/"
+    }
+  },
   "minimum-stability": "beta"
 }
