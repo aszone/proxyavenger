@@ -6,7 +6,7 @@
  * Time: 16:36.
  */
 
-namespace Aszone\Component\SearchHacking\Lib\ProxiesAvenger;
+namespace Aszone\ProxyAvenger;
 
 class ProxyTor
 {

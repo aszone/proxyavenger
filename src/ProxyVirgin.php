@@ -6,9 +6,8 @@
  * Time: 16:30.
  */
 
-namespace Aszone\Component\SearchHacking\Lib\ProxiesAvenger;
+namespace Aszone\ProxyAvenger;
 
-use Aszone\Component\SearchHacking\Lib\FakeHeaders\FakeHeaders;
 use GuzzleHttp\Client;
 
 class ProxyVirgin

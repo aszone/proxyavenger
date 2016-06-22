@@ -1,10 +1,10 @@
 <?php
 
-namespace Aszone\Component\SearchHacking\Lib\ProxiesAvenger;
+namespace Aszone\ProxyAvenger;
 
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
-use Aszone\Component\SearchHacking\Lib\FakeHeaders\FakeHeaders;
+use Aszone\FakeHeaders;
 
 class ProxySiteList
 {
