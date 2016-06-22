@@ -20,7 +20,7 @@
   ],
   "require": {
     "php": ">=5.3.9",
-    "aszone/fakeheaders": "~0.1",
+    "aszone/fakeheaders": "dev-master",
     "guzzlehttp/guzzle":"~5.3",
     "symfony/dom-crawler":"~2.8"
   },
