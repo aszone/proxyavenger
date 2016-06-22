@@ -20,15 +20,10 @@
   ],
   "require": {
     "php": ">=5.3.9",
-    "aszone/fakeheaders": "dev-master",
+    "aszone/fakeheaders": "~0.1",
     "guzzlehttp/guzzle":"~5.3",
     "symfony/dom-crawler":"~2.8"
-
   },
-  "require-dev": {
-    "aszone/fakeheaders": "dev-master"
-  },
-
   "autoload": {
     "psr-4": {
       "Aszone\\": "src/"
