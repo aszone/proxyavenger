@@ -25,6 +25,10 @@
     "symfony/dom-crawler":"~2.8"
 
   },
+  "require-dev": {
+    "aszone/fakeheaders": "dev-master"
+  },
+
   "autoload": {
     "psr-4": {
       "Aszone\\": "src/"
