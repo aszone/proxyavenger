@@ -4,7 +4,7 @@ namespace Aszone;
 
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
-use Aszone\FakeHeaders;
+use Aszone\FakeHeaders\FakeHeaders;
 
 class ProxySiteList
 {
