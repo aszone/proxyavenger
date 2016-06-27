@@ -6,7 +6,7 @@
  * Time: 16:37.
  */
 
-namespace Aszone;
+namespace Aszone\ProxyAvenger;
 
 class Proxies
 {
