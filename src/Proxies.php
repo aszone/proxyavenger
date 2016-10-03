@@ -8,6 +8,8 @@
 
 namespace Aszone\ProxyAvenger;
 
+use Aszone\ProxyAvenger;
+
 class Proxies
 {
     public $virginProxies;

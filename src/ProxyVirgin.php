@@ -6,7 +6,7 @@
  * Time: 16:30.
  */
 
-namespace Aszone;
+namespace Aszone\ProxyAvenger;
 
 use GuzzleHttp\Client;
 

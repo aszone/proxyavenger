@@ -1,6 +1,6 @@
 <?php
 
-namespace Aszone;
+namespace Aszone\ProxyAvenger;
 
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
